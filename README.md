@@ -4,16 +4,18 @@
 <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="480"/>
 </div>
 
-# There are two ways to write error-free programs; only the third one works.😄😄😄😄😄😄😄
+## There are two ways to write error-free programs; only the third one works. 😄😄
 
+### About Me:
 
-## Here are some ideas to get you started:
-
-## - 🔭 I’m currently working on NGO Website (Internship)
-## - 🌱 I’m currently learning Node.js 
-## - 👯 I’m looking to collaborate on LinkedIn
-## - 💬 Ask me about anything interesting
-## - 😄 Pronouns: He/His
+- 🔭 I’m currently working on NGO Website (Internship)
+- ✨ I’m currently creating my new project "Fake Messaging App"
+- 🌱 I’m currently learning MERN Stack 
+- 👯 Interested in Open Source, Cloud Technology and Artificial Intelligence.
+- 🤔 Exploring newer technologies and developing useful web apps
+- 💼 Fullstack web developer.
+- 🎓 Studying Electronics & Communication Engineering, computer programming and mathematics.
+- ✍️ Love designing UI/UX for applications and creating interesting web apps.
 
 </div>
 
