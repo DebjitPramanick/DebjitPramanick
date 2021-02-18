@@ -9,11 +9,11 @@
 
 ## Here are some ideas to get you started:
 
-### - 🔭 I’m currently working on NGO Website (Internship)
-### - 🌱 I’m currently learning Node.js 
-### - 👯 I’m looking to collaborate on LinkedIn
-### - 💬 Ask me about anything interesting
-### - 😄 Pronouns: He/His
+## - 🔭 I’m currently working on NGO Website (Internship)
+## - 🌱 I’m currently learning Node.js 
+## - 👯 I’m looking to collaborate on LinkedIn
+## - 💬 Ask me about anything interesting
+## - 😄 Pronouns: He/His
 
 </div>
 
