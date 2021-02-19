@@ -11,7 +11,7 @@
 - 👯 Interested in Open Source, Cloud Technology and Artificial Intelligence.
 - 🤔 Exploring newer technologies and developing useful web apps
 - 💼 Fullstack web developer.
-- 🎓 Studying Electronics & Communication Engineering, computer programming and mathematics.
+- 🎓 Studying Electronics & Communication Engineering.
 - ✍️ Love designing UI/UX for applications and creating interesting web apps.
 
 <div>
