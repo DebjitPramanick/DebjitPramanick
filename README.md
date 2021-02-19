@@ -1,12 +1,14 @@
 ![HI, I'M DEBJIT!](./images/top.png)
 
-<div style="display: flex; align-items: center;" align=center>
-<img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="280"/>
-</div>
-
 ## There are two ways to write error-free programs; only the third one works. 😄😄
 
 ### About Me:
+<div align="center" display="flex">
+
+<div style="display: flex; align-items: center;" align=center>
+<img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="180"/>
+</div>
+
 
 - 🔭 I’m currently working on NGO Website (Internship)
 - ✨ I’m currently creating my new project "Fake Messaging App"
@@ -71,8 +73,9 @@
 <br/>
 
 <div align=center>
-<img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300"/>
 </div>
 
 
 <img src="./images/bottom.png"/>
+
