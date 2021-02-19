@@ -3,12 +3,7 @@
 ## There are two ways to write error-free programs; only the third one works. 😄😄
 
 ### About Me:
-<div align="center" display="flex">
-
-<div style="display: flex; align-items: center;" align=center>
-<img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="180"/>
-</div>
-
+<div style="display: flex; align-items: center;">
 
 - 🔭 I’m currently working on NGO Website (Internship)
 - ✨ I’m currently creating my new project "Fake Messaging App"
@@ -18,6 +13,10 @@
 - 💼 Fullstack web developer.
 - 🎓 Studying Electronics & Communication Engineering, computer programming and mathematics.
 - ✍️ Love designing UI/UX for applications and creating interesting web apps.
+
+<div>
+<img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="280"/>
+</div>
 
 </div>
 
@@ -78,4 +77,3 @@
 
 
 <img src="./images/bottom.png"/>
-
