@@ -1,7 +1,7 @@
 ![HI, I'M DEBJIT!](./images/top.png)
 
 <div style="display: flex; align-items: center;" align=center>
-<img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="480"/>
+<img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="280"/>
 </div>
 
 ## There are two ways to write error-free programs; only the third one works. 😄😄
