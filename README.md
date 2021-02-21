@@ -1,6 +1,6 @@
 ![HI, I'M DEBJIT!](./images/top.png)
 
-## There are two ways to write error-free programs; only the third one works. 😄😄
+## There are two ways to write error-free programs; only the third one wors. 😄😄
 
 ### About Me:
 <div style="display: flex; align-items: center;">
