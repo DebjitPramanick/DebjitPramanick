@@ -6,7 +6,7 @@
 <div style="display: flex; align-items: center;">
 
 - 🔭 I’m currently working on NGO Website (Internship)
-- ✨ I’m currently creating my new project "Fake Messaging App"
+- ✨ I’m currently creating my new project "Polling App"
 - 🌱 I’m currently learning MERN Stack 
 - 👯 Interested in Open Source, Cloud Technology and Artificial Intelligence.
 - 🤔 Exploring newer technologies and developing useful web apps
