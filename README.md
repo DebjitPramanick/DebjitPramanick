@@ -5,7 +5,7 @@
 ### About Me:
 <div style="display: flex; align-items: center;">
 
-- 🔭 I’m currently working on Open Source Project
+- 🔭 I’m currently working on Open Source Projects
 - ✨ I’m currently creating my new project "OCR Web App"
 - 🌱 I’m currently learning MERN Stack 
 - 👯 Interested in Open Source, Cloud Technology and Artificial Intelligence.
