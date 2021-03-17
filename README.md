@@ -61,17 +61,12 @@
 <br/>
 
 <div align=center>
-	
 <img src="https://github-readme-stats.vercel.app/api?username=DebjitPramanick&show_icons=true&theme=synthwave"/> 
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebjitPramanick&theme=synthwave"/>
-
 </div>
-
 <br/>
-
 <div align=center>
 <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300"/>
 </div>
-
 <img src="./images/bottom.png"/>
