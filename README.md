@@ -44,7 +44,7 @@
 	<img alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 	<img alt="Express.js" width="36px" src="https://img.icons8.com/color/48/000000/js.png" />
 	<img alt="MongoDB" width="36px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-	<img width="36px" src="https://img.icons8.com/ios-filled/50/000000/mysql.png"/>
+	<img width="36px" src="https://img.icons8.com/nolan/64/mysql.png"/>
 	<img alt="Redux" width="36px" src="https://img.icons8.com/color/48/000000/redux.png"/>
 	<img alt="Git" width="36px" src="https://img.icons8.com/color/64/000000/git.png"/>
 	<img alt="GitHub" width="36px" src="https://img.icons8.com/bubbles/50/000000/github.png"/>
