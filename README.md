@@ -63,7 +63,7 @@
 <br/>
 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=DebjitPramanick&show_icons=true&theme=synthwave"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=DebjitPramanick&show_icons=true&theme=synthwave&include_all_commits=true"/> 
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebjitPramanick&theme=synthwave"/>
 </div>
