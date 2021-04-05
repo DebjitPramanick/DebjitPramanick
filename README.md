@@ -46,7 +46,7 @@
 	<img alt="MongoDB" width="36px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 	<img width="36px" src="https://img.icons8.com/nolan/64/mysql.png"/>
 	<img alt="Redux" width="36px" src="https://img.icons8.com/color/48/000000/redux.png"/>
-	<img width="36px" src="https://p7.hiclipart.com/preview/159/366/532/django-python-computer-icons-logo-portable-network-graphics-python-thumbnail.jpg"/>
+	<img width="36px" src="https://img.stackshare.io/service/994/4aGjtNQv.png"/>
 	<img alt="Git" width="36px" src="https://img.icons8.com/color/64/000000/git.png"/>
 	<img alt="GitHub" width="36px" src="https://img.icons8.com/bubbles/50/000000/github.png"/>
 	<img alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
