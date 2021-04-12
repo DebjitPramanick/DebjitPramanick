@@ -6,6 +6,7 @@
 ### About Me:
 <div style="display: flex; align-items: center;">
 
+
 - 🔭 I’m currently working on Open Source Project
 - ✨ I’m currently learning Linux
 - 🌱 I’m exploring more about AWS
