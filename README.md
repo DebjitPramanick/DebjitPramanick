@@ -5,7 +5,7 @@
 
 ### About Me:
 <div style="display: flex; align-items: center;">
-
+	
 - 🔭 I’m currently working as an Full Stack Developer Intern
 - ✨ I’m currently learning Blockchain
 - 🌱 I’m exploring more about Django
@@ -25,7 +25,6 @@
 	<a href="https://www.instagram.com/debjit.js/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/P_Debjit"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
-
 <br />
 
 ### Languages and Tools:
