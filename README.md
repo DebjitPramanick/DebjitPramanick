@@ -28,7 +28,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Technologies:
 
 <div align="center">
 	
