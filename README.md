@@ -7,7 +7,7 @@
 <tr>
 <td>
 <ul>
-<li>🔭 I’m currently working as an Full Stack Developer Intern</li>
+<li>🔭 I’m currently working as a Full Stack Developer Intern</li>
 <li>✨ I’m currently learning Blockchain</li>
 <li>🌱 I’m exploring more about Django</li>
 <li>👯 Interested in Open Source, Cloud Technology and Artificial Intelligence.</li>
