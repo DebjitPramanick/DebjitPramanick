@@ -15,7 +15,7 @@
 - 🎓 Studying Electronics & Communication Engineering.
 - ✍️ Love designing UI/UX for applications and creating interesting web apps.
 
-<p float="left">
+<p float="right">
 <img style="float: right;" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
 </p>
 	
