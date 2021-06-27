@@ -17,6 +17,11 @@
 
 </div>
 
+<p float="left">
+<img style="float: right;" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
+</p>
+
+
 ### Let's Connect :coffee:
 <p align="center" backgroud="./images/mid.png">
 	<a href="https://github.com/DebjitPramanick"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
