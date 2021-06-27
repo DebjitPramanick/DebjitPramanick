@@ -4,22 +4,26 @@
 ![](https://komarev.com/ghpvc/?username=DebjitPramanick&color=blue)
 
 ### About Me:
-<div style="display: flex; align-items: center;">
-	
-- 🔭 I’m currently working as an Full Stack Developer Intern
-- ✨ I’m currently learning Blockchain
-- 🌱 I’m exploring more about Django
-- 👯 Interested in Open Source, Cloud Technology and Artificial Intelligence.
-- 🤔 Exploring newer technologies and developing useful web apps
-- 💼 Fullstack web developer.
-- 🎓 Studying Electronics & Communication Engineering.
-- ✍️ Love designing UI/UX for applications and creating interesting web apps.
 
-<p float="right">
-<img style="float: right;" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
-</p>
-	
-</div>
+<table>
+<tr>
+<td>
+<ul>
+<li>🔭 I’m currently working as an Full Stack Developer Intern</li>
+<li>✨ I’m currently learning Blockchain</li>
+<li>🌱 I’m exploring more about Django</li>
+<li>👯 Interested in Open Source, Cloud Technology and Artificial Intelligence.</li>
+<li>🤔 Exploring newer technologies and developing useful web apps</li>
+ <li>💼 Fullstack web developer.</li>
+<li>🎓 Studying Electronics & Communication Engineering.</li>
+<li>✍️ Love designing UI/UX for applications and creating interesting web apps.</li>
+</ul>
+</td>
+<td>
+<img style="width: 200px" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
+</td>
+</tr>
+</table>
 
 
 ### Let's Connect :coffee:
