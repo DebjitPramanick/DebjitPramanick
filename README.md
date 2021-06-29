@@ -9,7 +9,7 @@
 <ul>
 <li>🔭 I’m currently working as a Full Stack Developer Intern</li>
 <li>✨ I’m currently learning Blockchain</li>
-<li>🌱 I’m exploring more about Django</li>
+<li>🌱 I’m exploring more about GraphQL</li>
 <li>👯 Interested in Open Source, Cloud Technology and Artificial Intelligence.</li>
 <li>🤔 Exploring newer technologies and developing useful web apps</li>
  <li>💼 Fullstack web developer.</li>
