@@ -27,8 +27,8 @@
 
 <table style="width: 100%">
 <tr align="center">  
-<td width="100%"><strong>Languages</strong></td>  
-<td width="100%">
+<td width="40%"><strong>Languages</strong></td>  
+<td width="60%">
 	<img alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 	<img alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 	<img alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
