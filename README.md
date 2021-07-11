@@ -47,6 +47,7 @@
 	<img alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 	<img width="36px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
 	<img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+	<img width="36px" src="https://img.icons8.com/color/48/000000/graphql.png"/>
 	<img alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 	<img alt="Express.js" width="36px" src="https://img.icons8.com/color/48/000000/js.png" />
 	<img alt="MongoDB" width="36px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
