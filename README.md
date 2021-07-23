@@ -2,7 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=DebjitPramanick&color=blue)
 
 ### About Me:
-
 <table>
 <tr>
 <td>
