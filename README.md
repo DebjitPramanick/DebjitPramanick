@@ -77,7 +77,6 @@
 <td width="50%"><strong>Cloud Tech</strong></td>  
 <td width="50%">
 	<img width="36px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-	<img width="36px" src="https://img.icons8.com/fluent/48/000000/opencv.png"/>
 </td>  
 </tr> 
 <tr align="center">  
