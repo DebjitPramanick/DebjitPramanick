@@ -80,6 +80,12 @@
 	<img width="36px" src="https://img.icons8.com/fluent/48/000000/opencv.png"/>
 </td>  
 </tr> 
+<tr align="center">  
+<td width="50%"><strong>Computer Vision</strong></td>  
+<td width="50%">
+	<img width="36px" src="https://img.icons8.com/fluent/48/000000/opencv.png"/>
+</td>  
+</tr> 
 </table>
 <br/>
 <br/>
