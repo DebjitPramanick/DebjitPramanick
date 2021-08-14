@@ -9,8 +9,8 @@
 <ul>
 <li>🔭 I’m currently working as a Full Stack Developer Intern</li>
 <li>✨ I’m currently learning AWS</li>
-<li>🌱 I’m exploring more about OpenCV</li>
-<li>👯 Interested in Open Source, Cloud Technology and Artificial Intelligence.</li>
+<li>🌱 I’m exploring more about Blockchain</li>
+<li>👯 Interested in Open Source, Cloud Technology, Blockchain and Artificial Intelligence.</li>
 <li>🤔 Exploring newer technologies and developing useful web apps</li>
  <li>💼 Fullstack web developer.</li>
 <li>🎓 Studying Electronics & Communication Engineering.</li>
