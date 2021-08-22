@@ -10,14 +10,12 @@
 <li>💻 Completed 2 internships</li>
 <li>✅ Have 1 Year of work experience in software engineering</li>
 <li>🔭 I’m currently working as a Full Stack Developer Intern</li>
-<li>🔭 I’m currently working as a Full Stack Developer Intern</li>
-<li>✨ I’m currently learning AWS</li>
-<li>🌱 I’m exploring more about Blockchain</li>
+<li>✨ Learning AWS</li>
+<li>🌱 Experimenting with Ethereum Blockchain</li>
 <li>👯 Interested in Open Source, Cloud Technology, Blockchain and Artificial Intelligence.</li>
 <li>🤔 Exploring newer technologies and developing useful web apps</li>
- <li>💼 Fullstack web developer.</li>
-<li>🎓 Studying Electronics & Communication Engineering.</li>
 <li>✍️ Love designing UI/UX for applications and creating interesting web apps.</li>
+<li>🎓 Studying Electronics & Communication Engineering.</li>
 </ul>
 </td>
 <td>
