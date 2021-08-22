@@ -7,6 +7,9 @@
 <tr>
 <td>
 <ul>
+<li>💻 Completed 2 internships</li>
+<li>✅ Have 1 Year of work experience in software engineering</li>
+<li>🔭 I’m currently working as a Full Stack Developer Intern</li>
 <li>🔭 I’m currently working as a Full Stack Developer Intern</li>
 <li>✨ I’m currently learning AWS</li>
 <li>🌱 I’m exploring more about Blockchain</li>
