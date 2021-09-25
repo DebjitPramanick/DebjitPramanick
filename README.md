@@ -27,6 +27,7 @@
 
 ### Languages and Technologies:
 
+
 <table width="100%">  
 <tr align="center">  
 <td width="545"><strong>Languages</strong></td>  
