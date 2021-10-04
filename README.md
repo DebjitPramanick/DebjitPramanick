@@ -14,7 +14,7 @@
 <li>✨ Learning AWS</li>
 <li>🌱 Experimenting with Ethereum Blockchain</li>
 <li>👯 Interested in Open Source, Cloud Technology, Blockchain and AI.</li>
-<li>🤔 Exploring newer technologies and developing useful web apps</li>
+<li>🤔 Exploring latest technologies and developing useful web apps</li>
 <li>✍️ Love designing UI/UX for applications and creating interesting web apps.</li>
 <li>🎓 Studying Electronics & Communication Engineering.</li>
 </ul>
