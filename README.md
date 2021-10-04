@@ -7,10 +7,10 @@
 <tr>
 <td>
 <ul>
-<li>💻 Completed 2 internships</li>
+<li>💻 Completed 2 internships for Full Stack Developer Position</li>
 <li>🏆 Participated in 2 National and 1 International Hackathons</li>
 <li>✅ Have 1 Year of work experience in software industry</li>
-<li>🔭 I’m currently working as a Full Stack Developer Intern</li>
+<li>🔭 I’m currently working as a Project Manager Intern</li>
 <li>✨ Learning AWS</li>
 <li>🌱 Experimenting with Ethereum Blockchain</li>
 <li>👯 Interested in Open Source, Cloud Technology, Blockchain and Artificial Intelligence.</li>
