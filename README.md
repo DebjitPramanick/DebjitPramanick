@@ -57,6 +57,7 @@
 	<img width="36px" src="https://img.icons8.com/nolan/64/mysql.png"/>
 	<img width="36px" src="https://img.stackshare.io/service/994/4aGjtNQv.png"/>
 	<img alt="Firebase" width="36px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+	<img width="36px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 </td>  
 </tr>  
 <tr align="center">  
