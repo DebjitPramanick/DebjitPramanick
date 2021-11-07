@@ -44,6 +44,7 @@
 <td width="50%"><strong>Frontend</strong></td>  
 <td width="50%">
 	<img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+	<img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
 	<img alt="Redux" width="36px" src="https://img.icons8.com/color/48/000000/redux.png"/>
 	<img width="36px" src="https://img.stackshare.io/service/994/4aGjtNQv.png"/>
 </td>  
