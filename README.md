@@ -37,7 +37,6 @@
 	<img width="36px" src="https://img.icons8.com/color/50/000000/typescript.png"/>
 	<img width="36px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
 	<img width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-	<img height="34px" width="36px" src="https://cryptofex.io/wp-content/uploads/2018/08/Solidity.png">
 </td>  
 </tr>  
 <tr align="center">  
