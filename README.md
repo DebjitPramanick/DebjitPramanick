@@ -105,4 +105,5 @@
 	<a href="https://www.linkedin.com/in/debjit-pramanick-7a6a971b1/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/debjit.pramanick.56/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/debjitpramanickk/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/debjitpmk"><img src="https://icons8.com/icon/eeQY_dRSUIMV/twitter-circled" alt="Twitter"/></a>
 </p>
