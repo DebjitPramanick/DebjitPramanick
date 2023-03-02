@@ -1,6 +1,5 @@
 ## There are two ways to write error-free programs; only the third one works. 😄😄
-![](https://komarev.com/ghpvc/?username=DebjitPramanick&color=blue)
-
+![](https://komarev.com/ghpvc/?username=DebjitPramanick&color=orange)
 
 ### About Me:
 
