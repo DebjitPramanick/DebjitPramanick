@@ -6,16 +6,10 @@
 <tr>
 <td>
 <ul>
-<li>💻 Completed 3 internships at Full Stack Developer Position</li>
-<li>🏆 Participated in 2 National and 1 International Hackathons</li>
-<li>✅ Have 2 Years of work experience in software industry</li>
-<li>🔭 I’m currently working as a SWE Intern</li>
-<li>✨ Learning Golang</li>
+<li>✅ Have 1 Year of work experience in software industry</li>
+<li>🔭 I’m currently working as a SDE</li>
+<li>✨ Learning Java</li>
 <li>🌱 Experimenting with React</li>
-<li>👯 Interested in Open Source, Cloud Technology, Blockchain and AI.</li>
-<li>🤔 Exploring latest technologies and developing useful web apps</li>
-<li>✍️ Love designing UI/UX for applications and creating interesting web apps.</li>
-<li>🎓 Studying Electronics & Communication Engineering.</li>
 </ul>
 </td>
 <td>
