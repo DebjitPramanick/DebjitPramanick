@@ -2,18 +2,12 @@
 
 ### About Me:
 
-<table width="100%">
-<tr>
-<td>
 <ul>
 <li>✅ Have 1 Year of work experience in software industry</li>
 <li>🔭 I’m currently working as a SDE</li>
 <li>✨ Learning Java</li>
 <li>🌱 Experimenting with React</li>
 </ul>
-</td>
-</tr>
-</table>
 
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=DebjitPramanick&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
