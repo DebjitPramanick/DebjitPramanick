@@ -12,9 +12,6 @@
 <li>🌱 Experimenting with React</li>
 </ul>
 </td>
-<td>
-<img style="width: 100%" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
-</td>
 </tr>
 </table>
 
