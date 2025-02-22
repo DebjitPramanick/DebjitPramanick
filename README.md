@@ -4,8 +4,8 @@
 
 <ul>
 <li>✅ Have 2 Years of work experience in the software industry</li>
-<li>🔭 I’m currently working as a SDE</li>
-<li>🌱 Experimenting with React</li>
+<li>🔭 Currently working as a Frontend Developer</li>
+<li>⚙️ Building tech with React.js and Next.js</li>
 </ul>
 
 <div align=center>
