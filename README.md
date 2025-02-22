@@ -12,12 +12,12 @@
 </ul>
 
   <b>Key Achievements:</b>
-<li>Delivered high quality full-stack applications, leading to a 30% increase in operational efficiency and user engagement.</li>
+<ul><li>Delivered high quality full-stack applications, leading to a 30% increase in operational efficiency and user engagement.</li>
 <li>Successfully integrated third-party services and APIs, improving platform capabilities and reducing manual effort by 20%.</li>
-<li>Collaborated with cross-functional teams to deliver projects on time, maintaining a high code quality standard with regular code reviews and documentation with 13% increase in overall output.</li>
+<li>Collaborated with cross-functional teams to deliver projects on time, maintaining a high code quality standard with regular code reviews and documentation with 13% increase in overall output.</li></ul>
 	</td>
 	<td>
-		<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWUyNTNpN3R2MWVoeDFieGhmeTkxa2R0MnU5d3N6a243dXJ5dGI2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="developer" />
+		<img width="500px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWUyNTNpN3R2MWVoeDFieGhmeTkxa2R0MnU5d3N6a243dXJ5dGI2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="developer" />
 	</td>
 </tr>
 </table>
