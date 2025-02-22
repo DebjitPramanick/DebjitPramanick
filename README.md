@@ -22,10 +22,16 @@
 </tr>
 </table>
 
-<div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=DebjitPramanick&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebjitPramanick&theme=synthwave"/>
-</div>
+<table>
+	<tr>
+<td>
+	<img width="600px" src="https://github-readme-stats.vercel.app/api?username=DebjitPramanick&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
+</td>
+<td>
+	<img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebjitPramanick&theme=synthwave"/>
+</td>
+</tr>
+</table>
 <br/>
 
 <h2 align="center">Let's Connect <h2>
