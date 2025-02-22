@@ -3,9 +3,8 @@
 ### About Me:
 
 <ul>
-<li>✅ Have 1 Year of work experience in software industry</li>
+<li>✅ Have 2 Years of work experience in the software industry</li>
 <li>🔭 I’m currently working as a SDE</li>
-<li>✨ Learning Java</li>
 <li>🌱 Experimenting with React</li>
 </ul>
 
